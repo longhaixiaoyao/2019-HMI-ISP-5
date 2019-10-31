@@ -4,3 +4,4 @@
 2019.10.13 Upload testing codes.
 2019.10.20 Upload speech recognition and number recognition codes.
 2019.10.27 Upload speech recognition,number recognition and car controll codes.
+2019.10.31 Upload the PDF for presentation. 
